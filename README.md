@@ -10,3 +10,7 @@ This will create a directory with the full name.For simplicity you can just writ
 # Mininum Requirements for spark
 1)Check if java is installed or not using java -version.
 2)Check for python(By default Mac OS already have python installed)
+
+
+After Installation go to Terminal and move to your spark directory created using cd spark(directory name).
+
