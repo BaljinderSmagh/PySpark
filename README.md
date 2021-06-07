@@ -14,3 +14,7 @@ This will create a directory with the full name.For simplicity you can just writ
 
 After Installation go to Terminal and move to your spark directory created using cd spark(directory name).
 
+Now go to bin directory it contains binary files for running spark comman-line processors.
+
+To use python type- ./pyspark
+
