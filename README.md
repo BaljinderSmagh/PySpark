@@ -16,5 +16,10 @@ After Installation go to Terminal and move to your spark directory created using
 
 Now go to bin directory it contains binary files for running spark comman-line processors.
 
+![Screen Shot 2021-06-07 at 4 31 14 PM](https://user-images.githubusercontent.com/62060239/121084187-5937d400-c7ae-11eb-9238-49a048166586.png)
+
+
 To use python type- ./pyspark
+
+![Screen Shot 2021-06-07 at 4 31 25 PM](https://user-images.githubusercontent.com/62060239/121084532-be8bc500-c7ae-11eb-83a2-c250f4de8849.png)
 
