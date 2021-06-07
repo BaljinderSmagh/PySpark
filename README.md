@@ -7,6 +7,6 @@ Extract the tar file on system and move it to home directory for ease access.
 
 This will create a directory with the full name.For simplicity you can just write spark.
 
-#Mininum Requirements for spark
+# Mininum Requirements for spark
 1)Check if java is installed or not using java -version.
 2)Check for python(By default Mac OS already have python installed)
