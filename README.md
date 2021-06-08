@@ -9,6 +9,7 @@ This will create a directory with the full name.For simplicity you can just writ
 
 # Mininum Requirements for spark
 1)Check if java is installed or not using java -version.
+
 2)Check for python(By default Mac OS already have python installed)
 
 
@@ -22,4 +23,7 @@ Now go to bin directory it contains binary files for running spark comman-line p
 To use python type- ./pyspark
 
 ![Screen Shot 2021-06-07 at 4 31 25 PM](https://user-images.githubusercontent.com/62060239/121084532-be8bc500-c7ae-11eb-83a2-c250f4de8849.png)
+
+References:-
+1) https://www.linkedin.com/learning/spark-for-machine-learning-a by Dan Sullivan
 
