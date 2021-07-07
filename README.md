@@ -1,3 +1,8 @@
+# What is PySpark?
+
+PySpark is the collaboration Apache Spark and python.It is python API for spark.
+
+
 # PySpark for Mac
 
 Install spark using this link https://spark.apache.org/downloads.html
